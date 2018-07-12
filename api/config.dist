@@ -1,0 +1,8 @@
+<?php
+    require 'database.class.php';
+    
+    DEFINE("SECRET", "");
+    DEFINE( "DB_NAME", "" );
+    DEFINE( "DB_HOST", "" );
+    DEFINE( "DB_USERNAME", "" );
+    DEFINE( "DB_PASSWORD", "" );
